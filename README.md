@@ -27,3 +27,24 @@ Proje aktif geliştirme aşamasındadır.
 ## Lisans
 
 MIT License
+## Yol Haritası
+
+### Faz 1
+- GitHub kurulumu
+- Dokümantasyon
+- Firebase kurulumu
+
+### Faz 2
+- Uzun süreli hafıza
+- Proje hafızası
+- Not sistemi
+
+### Faz 3
+- AI ajan sistemi
+- Uzman persona sistemi
+- Görev yönetimi
+
+### Faz 4
+- Dosya ve doküman yönetimi
+- Bilgi bankası
+- Kişisel AI işletim sistemi
