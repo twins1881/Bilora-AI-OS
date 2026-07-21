@@ -48,3 +48,15 @@ MIT License
 - Dosya ve doküman yönetimi
 - Bilgi bankası
 - Kişisel AI işletim sistemi
+
+## İlk Sürüm (v0.1.0)
+
+Hedefler:
+
+- GitHub altyapısı
+- README
+- Roadmap
+- Firebase hazırlığı
+- Dokümantasyon başlangıcı
+
+Durum: Geliştiriliyor
